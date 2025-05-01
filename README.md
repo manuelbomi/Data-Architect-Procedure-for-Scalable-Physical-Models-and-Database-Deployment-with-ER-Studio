@@ -36,8 +36,9 @@ For completeness, it is advisable that Developers that intend to use the procedu
 
 #### Give the naming template any desired name
 ![Image](https://github.com/user-attachments/assets/43a04da0-2955-4dbf-9fd8-4ee55fded228)
+---
 
-___
+#### Click on  'Physical' button and change the Entity parameters as desired. You can change it to UPPER lower UpperCase etc
 ![Image](https://github.com/user-attachments/assets/31eb2f20-fa9e-4575-bb96-3614c15340fe)
 ![Image](https://github.com/user-attachments/assets/a0bc41e2-8e42-487d-b0bd-d32a3d9c8261)
 ![Image](https://github.com/user-attachments/assets/1a9aff44-66f4-4fd3-b8ce-5392704c329b)
