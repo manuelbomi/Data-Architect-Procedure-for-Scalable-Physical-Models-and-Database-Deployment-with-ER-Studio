@@ -169,5 +169,27 @@ For completeness, it is advisable that Developers that intend to use the procedu
 #### You can expand to see some of the entities and tables
 ![Image](https://github.com/user-attachments/assets/7351b377-b1d6-471b-bc08-e8d680901073)
 
+---
+Thank you for reading through
+
+---
+
+Author's Background
+
+```
+
+Author's Name:  Emmanuel Oyekanlu
+Skillset:   I have experience spanning several years in developing scalable enterprise data pipelines, architecting enterprise data solutions,
+data engineering, machine learning, NLP and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+I can be reached through: manuelbomi@yahoo.com
+Website:  http://emmanueloyekanlu.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
 
 
