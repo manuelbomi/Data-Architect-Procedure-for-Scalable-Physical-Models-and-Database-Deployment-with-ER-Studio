@@ -41,7 +41,13 @@ For completeness, it is advisable that Developers that intend to use the procedu
 #### Click on  'Physical' button and change the Entity parameters as desired. You can change it to UPPER lower UpperCase etc
 ![Image](https://github.com/user-attachments/assets/31eb2f20-fa9e-4575-bb96-3614c15340fe)
 ![Image](https://github.com/user-attachments/assets/a0bc41e2-8e42-487d-b0bd-d32a3d9c8261)
+
+---
+#### Navigate to 'Mappings' and select the appropriate tab to replace any character with an underscore
 ![Image](https://github.com/user-attachments/assets/1a9aff44-66f4-4fd3-b8ce-5392704c329b)
+
+---
+
 ![Image](https://github.com/user-attachments/assets/f147bc74-b663-4c9d-bc1e-fc715a526f80)
 ![Image](https://github.com/user-attachments/assets/ca41ec57-f61f-4596-ad18-35927e2e2d3a)
 ![Image](https://github.com/user-attachments/assets/81a25d1a-184a-4bdf-aa40-edb2713c732b)
