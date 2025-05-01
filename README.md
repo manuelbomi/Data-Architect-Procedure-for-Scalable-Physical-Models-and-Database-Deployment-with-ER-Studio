@@ -85,8 +85,17 @@ For completeness, it is advisable that Developers that intend to use the procedu
 ![Image](https://github.com/user-attachments/assets/fc2c8b39-f07b-4746-99a3-34d348027903)
 
 ---
+
+#### Select all table, views etc
 ![Image](https://github.com/user-attachments/assets/d8e4f0cd-8f3b-47b3-8af7-ad0cebb87106)
+
+---
+
+#### Click next and select your naming template
 ![Image](https://github.com/user-attachments/assets/96833f4d-b514-4397-b435-c2112aeecfc6)
+
+---
+#### Give the tables and indexes names
 ![Image](https://github.com/user-attachments/assets/1e598df8-6a23-4646-86d5-0e572866b35d)
 ![Image](https://github.com/user-attachments/assets/4b6320a4-624e-4f52-8548-8672bc901d3d)
 ![Image](https://github.com/user-attachments/assets/c8d559ab-8e7f-4019-9d4d-019b7c8ed844)
