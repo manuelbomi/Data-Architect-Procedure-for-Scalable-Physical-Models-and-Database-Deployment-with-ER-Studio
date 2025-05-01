@@ -43,14 +43,23 @@ For completeness, it is advisable that Developers that intend to use the procedu
 ![Image](https://github.com/user-attachments/assets/a0bc41e2-8e42-487d-b0bd-d32a3d9c8261)
 
 ---
-#### Navigate to 'Mappings' and select the appropriate tab to replace any character with an underscore
+#### Navigate to 'Mapping' and select the appropriate tab to replace any character with an underscore
 ![Image](https://github.com/user-attachments/assets/1a9aff44-66f4-4fd3-b8ce-5392704c329b)
 
 ---
-
+#### Under ‘Binding Information’ select ‘Entity’ and select all. Click OK
 ![Image](https://github.com/user-attachments/assets/f147bc74-b663-4c9d-bc1e-fc715a526f80)
+
+---
+
+#### Navigate back to the Data Model page
 ![Image](https://github.com/user-attachments/assets/ca41ec57-f61f-4596-ad18-35927e2e2d3a)
+
+---
+#### Right click on the 'Main Model and select 'Naming Standard Utility'
 ![Image](https://github.com/user-attachments/assets/81a25d1a-184a-4bdf-aa40-edb2713c732b)
+
+---
 ![Image](https://github.com/user-attachments/assets/5949bba3-9301-4241-9176-628f3397b42f)
 ![Image](https://github.com/user-attachments/assets/212b6d74-4d81-4fc4-b4df-b97262f3fff2)
 ![Image](https://github.com/user-attachments/assets/32107f2f-f11d-457c-831e-c50a435e4f48)
