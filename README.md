@@ -60,12 +60,31 @@ For completeness, it is advisable that Developers that intend to use the procedu
 ![Image](https://github.com/user-attachments/assets/81a25d1a-184a-4bdf-aa40-edb2713c732b)
 
 ---
+#### Select 'All' under 'Options'
 ![Image](https://github.com/user-attachments/assets/5949bba3-9301-4241-9176-628f3397b42f)
+
+---
+#### Select the named (naming) template and ensure that both Source and Target are selected for Logical
 ![Image](https://github.com/user-attachments/assets/212b6d74-4d81-4fc4-b4df-b97262f3fff2)
+
+---
+#### Select 'Run Translation' and press OK
 ![Image](https://github.com/user-attachments/assets/32107f2f-f11d-457c-831e-c50a435e4f48)
+
+---
+#### Select 'Run Translation'
 ![Image](https://github.com/user-attachments/assets/1adef587-d371-45fa-a45c-be5c1512cb70)
+
+---
+#### Right click on the model and pick 'Generate Physical Model'
 ![Image](https://github.com/user-attachments/assets/362571f0-5e6d-4c39-aadd-bf4253af4a32)
+
+---
+
+#### Give the physical model a name, pick Relational Database and select MS SQL Server
 ![Image](https://github.com/user-attachments/assets/fc2c8b39-f07b-4746-99a3-34d348027903)
+
+---
 ![Image](https://github.com/user-attachments/assets/d8e4f0cd-8f3b-47b3-8af7-ad0cebb87106)
 ![Image](https://github.com/user-attachments/assets/96833f4d-b514-4397-b435-c2112aeecfc6)
 ![Image](https://github.com/user-attachments/assets/1e598df8-6a23-4646-86d5-0e572866b35d)
