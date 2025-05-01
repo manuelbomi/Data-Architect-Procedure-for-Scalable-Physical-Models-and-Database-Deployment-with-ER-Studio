@@ -97,21 +97,76 @@ For completeness, it is advisable that Developers that intend to use the procedu
 ---
 #### Give the tables and indexes names
 ![Image](https://github.com/user-attachments/assets/1e598df8-6a23-4646-86d5-0e572866b35d)
+
+---
+#### Give the tables and indexes names
 ![Image](https://github.com/user-attachments/assets/4b6320a4-624e-4f52-8548-8672bc901d3d)
+
+---
+#### Click Next
 ![Image](https://github.com/user-attachments/assets/c8d559ab-8e7f-4019-9d4d-019b7c8ed844)
+
+---
+#### The physical model will now exist at the lower end of the Data Model page
 ![Image](https://github.com/user-attachments/assets/7bc83664-3b36-4893-98d9-77eaebcb9ca7)
+
+---
+#### Right click on the physical model and click Generate Database
 ![Image](https://github.com/user-attachments/assets/5969b5c0-e780-44f0-9052-b9b38a86a210)
+
+---
+#### Select object with database connection and click Connect
 ![Image](https://github.com/user-attachments/assets/aeda7ace-8075-4e2c-8f3b-c48865e2ae45)
+
+---
+
+#### Select object with database connection
 ![Image](https://github.com/user-attachments/assets/fde69ab2-af31-4762-909d-1966c2de5bb6)
+
+---
+
+#### Select database parameters and ensure that the database server_connection name matches that of the MSSQL database
 ![Image](https://github.com/user-attachments/assets/7bf8eb57-e197-4582-92db-b5a54e52630b)
+
+---
+
+#### Input  'sa' as username and input the password and click next
 ![Image](https://github.com/user-attachments/assets/547543fb-3723-4bd8-b7f5-f0e022bc3487)
+
+---
+
+#### Click next and click select or create a database
 ![Image](https://github.com/user-attachments/assets/35e89686-5a55-4139-b771-cea79309dd31)
+
+---
+
+#### We have chosen to create a database named ER_Studio_HR_Dbase
 ![Image](https://github.com/user-attachments/assets/937d6eb0-47c6-4559-be4c-e96f7fbcf4be)
+
+---
+
+#### Click next and select all
 ![Image](https://github.com/user-attachments/assets/c1a4b040-f67a-4ce9-82d3-8a357cfb6467)
+
+---
+#### 27 Click next and click finish
 ![Image](https://github.com/user-attachments/assets/7d81a289-0116-4ba1-9c31-8a378be3db72)
+
+---
+#### You can choose to save the result and close the wizard
 ![Image](https://github.com/user-attachments/assets/cdbf75df-9750-4365-86f4-ee804bc91af4)
+
+---
+#### MS SQL Server Database before refreshing
 ![Image](https://github.com/user-attachments/assets/870a020e-911a-4a4d-bd82-3aa656c26936)
+
+---
+#### The ER_studio_HR_Dbase have been created
 ![Image](https://github.com/user-attachments/assets/a6dcc441-2b1d-4eb0-8e2b-b60278d20f5d)
+
+---
+
+#### You can expand to see some of the entities and tables
 ![Image](https://github.com/user-attachments/assets/7351b377-b1d6-471b-bc08-e8d680901073)
 
 
