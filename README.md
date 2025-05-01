@@ -14,12 +14,12 @@ Fpr completeness, it is advisable that Developers that intend to use the procedu
 
 #### Start with procedures for creating a Logical Data Model here: https://github.com/manuelbomi/Data-Architect-Procedure-for-Designing-a-Scalable-Logical-Data-Model-with-ER-Studio. If the MS SQL Server database engine is the intended target, then ensure that the database is running and ensure that the authentication method is the MSSQL Server Authentication method. An infograph of a running MSSQL Server is shown below:
 ---
-![Image](https://github.com/user-attachments/assets/a6dcc441-2b1d-4eb0-8e2b-b60278d20f5d)
+![Image](https://github.com/user-attachments/assets/b9c361ab-b2d2-4d12-b8c0-c743831f8265)
+
 
 ---
 #### Start from the logical model. Load the LDM
-![Image](https://github.com/user-attachments/assets/7351b377-b1d6-471b-bc08-e8d680901073)
-![Image](https://github.com/user-attachments/assets/b9c361ab-b2d2-4d12-b8c0-c743831f8265)
+
 ![Image](https://github.com/user-attachments/assets/64388926-dbce-49d5-b110-c7129647840d)
 ![Image](https://github.com/user-attachments/assets/2c55fb69-0c83-41a0-80c8-cb2e1cbdbf07)
 ![Image](https://github.com/user-attachments/assets/7b119ca5-397c-458a-97dc-140b61414bb7)
@@ -53,5 +53,8 @@ Fpr completeness, it is advisable that Developers that intend to use the procedu
 ![Image](https://github.com/user-attachments/assets/7d81a289-0116-4ba1-9c31-8a378be3db72)
 ![Image](https://github.com/user-attachments/assets/cdbf75df-9750-4365-86f4-ee804bc91af4)
 ![Image](https://github.com/user-attachments/assets/870a020e-911a-4a4d-bd82-3aa656c26936)
+![Image](https://github.com/user-attachments/assets/a6dcc441-2b1d-4eb0-8e2b-b60278d20f5d)
+![Image](https://github.com/user-attachments/assets/7351b377-b1d6-471b-bc08-e8d680901073)
+
 
 
