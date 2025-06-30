@@ -1,4 +1,4 @@
-# Data-Architect-Procedure-for-Scalable-Physical-Plans-and - Database-Design-Deployment-with-ER-Studio
+# Data Architect Procedure for Scalable Physical Plans and Database Design Deployment with ER Studio
 
 In this discourse, we show an infographic procedure by which Data/Database Architects can deploy a scalable Physical Data Model (PDM),  and deploy the PDM on a Database. ER/Studio is used for the design procedures outlined in this discourse. Microsoft SQL Server 2022 is used as the database for deployment. 
 
